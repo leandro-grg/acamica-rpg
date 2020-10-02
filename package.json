@@ -1,0 +1,23 @@
+{
+  "name": "acamica-rpg",
+  "version": "1.0.0",
+  "description": "Un rpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:tw": "npx tailwindcss build ./css/input.css -o ./css/documento.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arbust908/acamica-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arbust908/acamica-rpg/issues"
+  },
+  "homepage": "https://github.com/Arbust908/acamica-rpg#readme",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
