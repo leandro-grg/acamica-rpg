@@ -4,14 +4,14 @@
     100% { box-shadow: 0px 4px 15px gold; }
 }
 
-#titulo {
+/* #titulo {
     /* color: gold; */
-    color: #444;
+    /*color: #444;
     margin: 0;
     position: absolute;
     top: 15px;
     left: 15px;
-}
+} */
 
 #juego {
     height: 600px;
